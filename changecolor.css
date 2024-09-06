@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+.main-count{
+    margin: 100px;
+    padding: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.btn{
+    height: 80px;
+    width: 160px;
+    font-size: medium;
+}
+.d2{
+    height: 300px;
+    width: 300px;
+    border: 2px solid black;
+}
